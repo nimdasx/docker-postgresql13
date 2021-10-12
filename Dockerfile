@@ -1,4 +1,4 @@
-FROM postgresql:13
+FROM postgres:13
 
 LABEL maintainer="nimdasx@gmail.com"
 LABEL description="Postgresql 13 di custom sedikit"
